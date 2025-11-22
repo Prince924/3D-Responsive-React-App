@@ -1,5 +1,5 @@
 import Header from "./components/header"
-import Hero from "./components/hero"
+import Hero from "./components/Hero"
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { useEffect } from "react";
